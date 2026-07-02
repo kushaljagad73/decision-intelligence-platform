@@ -1,0 +1,5 @@
+Decision Intelligence Platform is an AI-powered system that helps communities transform raw data into actionable insights for better decision-making. 
+
+Built with Google Gemini LLM, FastAPI, and Next.js, it covers 8 critical domains: urban mobility, public safety, healthcare, environment, energy, education, citizen engagement, and tourism. The platform features a conversational AI assistant for natural language queries, multi-domain analytics dashboards with predictive forecasting, a decision intelligence engine that evaluates options using multi-criteria analysis, and intelligent data ingestion from CSV, JSON, PDF, APIs, and webhooks. 
+
+Each insight includes confidence scores, source citations, and explainable reasoning. The platform is containerized with Docker, deployable on Google Cloud Run, and includes comprehensive sample data for immediate demonstration. It works offline out of the box and seamlessly integrates with Google Cloud services (Vertex AI, BigQuery, Gemini) when configured.
